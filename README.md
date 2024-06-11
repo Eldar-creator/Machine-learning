@@ -9,7 +9,7 @@
 # Mini-course of Machine Learning 
 [Machine learning..pdf](https://github.com/user-attachments/files/15784950/Machine.learning.pdf)
 
-#  Link to video of work process 
+#  Link to video process and description video 
 https://drive.google.com/drive/folders/1_CMaafghj7iZgnaaHmBgYbGR7ZX1tGbK?usp=drive_link
 
-# Description video 
+
